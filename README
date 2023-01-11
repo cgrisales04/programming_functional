@@ -1,0 +1,17 @@
+## Programing functional
+
+Proyecto donde se pone en practica y se sigue la guía del curso Curso de *Programación Funcional con Java SE*.
+
+Tecnologias usadas:
+
+-   Java 11
+
+Para realizar la descarga del proyecto debes ejecutar desde la consola.
+
+-   Ejecutar los comandos
+    ```
+    git clone https://github.com/cgrisales04/programming_functional.git
+    ```
+👶🏽 Dev. Cristian Grisales
+🎓 Engineer in process
+🧩 Material by Platzi
